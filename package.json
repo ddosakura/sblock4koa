@@ -1,0 +1,9 @@
+{
+  "name": "sblock4koa",
+  "version": "0.0.1",
+  "description": "The middleware for sblock4js to used in koa.",
+  "main": "lib/main.js",
+  "repository": "https://github.com/ddosakura/sblock4koa.git",
+  "author": "Sakura Mo <moyinzi@outlook.com>",
+  "license": "Apache-2.0"
+}
