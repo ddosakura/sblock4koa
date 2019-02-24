@@ -5,5 +5,10 @@
   "main": "lib/main.js",
   "repository": "https://github.com/ddosakura/sblock4koa.git",
   "author": "Sakura Mo <moyinzi@outlook.com>",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "http-errors": "^1.7.2",
+    "resolve-path": "^1.4.0"
+  }
 }
